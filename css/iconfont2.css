@@ -1,0 +1,56 @@
+@font-face {font-family: "iconfont";
+  src: url('../fonts/iconfont2.ttf') format('truetype');
+}
+
+.icon {
+  font-family: "iconfont" !important;
+  font-size: 16px;
+  font-style: normal;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+.icon-666:before {
+  content: "\e63a";
+}
+
+.icon-anzhuo:before {
+  content: "\e661";
+}
+
+.icon-twitter:before {
+  content: "\e749";
+}
+
+.icon-caidan:before {
+  content: "\e738";
+}
+
+.icon-weixin:before {
+  content: "\e619";
+}
+
+.icon-pingguo:before {
+  content: "\e68c";
+}
+
+.icon-close:before {
+  content: "\e650";
+}
+
+.icon--xialajiantou:before {
+  content: "\e616";
+}
+
+.icon-yonghu:before {
+  content: "\e682";
+}
+
+.icon-suo:before {
+  content: "\e664";
+}
+
+.icon-sousuo:before {
+  content: "\e6a8";
+}
+
